@@ -12,6 +12,15 @@
         "Soukyuu Scans": "/proxy/api/imgur/chapter/hUTbmuv/"
       },
       "last_updated": "1633217864"
-    }
+    },
+    
+      "1": {
+      "title": "Hiiro",
+      "volume": "1",
+      "groups": {
+        "Soukyuu Scans": "/proxy/api/imgur/chapter/RkHq858/"
+      },
+      "last_updated": "1633626758"
+    } 
   }
 }
