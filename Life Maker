@@ -30,6 +30,15 @@
         "Soukyuu Scans": "/proxy/api/imgur/chapter/O2TmCNT/"
       },
       "last_updated": "1633833197"
-    }    
+    },
+    
+      "4": {
+      "title": "Others",
+      "volume": "1",
+      "groups": {
+        "Soukyuu Scans": "/proxy/api/imgur/chapter/n9EMnXm/"
+      },
+      "last_updated": "1635377273"
+    }  
   }
 }
