@@ -39,6 +39,15 @@
         "Soukyuu Scans": "/proxy/api/imgur/chapter/n9EMnXm/"
       },
       "last_updated": "1635377273"
-    }  
+    },
+    
+      "5": {
+      "title": "Problem",
+      "volume": "1",
+      "groups": {
+        "Soukyuu Scans": "/proxy/api/imgur/chapter/jRwS8aT/"
+      },
+      "last_updated": "1640537673"
+    } 
   }
 }
